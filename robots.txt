@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://about.theconflictresolutionapp.com/sitemap.xml
